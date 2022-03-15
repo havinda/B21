@@ -1,0 +1,11 @@
+/* Untuk HP yang layarnya kebesaran */
+@media all and (max-width: 1000px) {
+
+}
+
+/* Untuk HP yang layarnya kekecilan */
+@media all and (max-width: 340px) {
+    .header-right {
+        display: none;
+    }
+}
